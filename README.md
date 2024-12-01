@@ -1,5 +1,5 @@
 ## Hi world 👋
 
-I’m a dev and DevOps studying computer science in Europe.
+Dev and DevOps working and studying computer science in Europe.
 
-I'm interested in many topics, such as: UI/UX design, low-level and distributed computing, photography, open source philosophy, natural languages, architecture and urban planning.
+I'm interested in many subjects: low-level and distributed computing, space, photography, languages, design, architecture and urban planning.
